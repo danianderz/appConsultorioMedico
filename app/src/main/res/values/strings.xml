@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">appProyecto</string>
+    <string name="title_home">Médicos</string>
+    <string name="title_dashboard">Pacientes</string>
+    <string name="title_notifications">Consultas</string>
+</resources>
